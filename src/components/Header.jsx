@@ -120,7 +120,7 @@ const Header = () => {
           <a href="#">Existing Inventory</a>
         </li>
         <li>
-          <a href="#">Used Inventory</a>
+          <a href="#">Test Drive</a>
         </li>
         <li>
           <a href="#">Trade-in</a>
